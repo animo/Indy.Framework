@@ -7,6 +7,8 @@ library for React Native or iOS development.
 
 > This has only been tested for React Native and might not work the same as for
 > a normal iOS mobile application.
+> The framework is also not compatible with simulators. Please use a real device
+> for development.
 
 ### Installation
 
